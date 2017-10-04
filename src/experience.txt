@@ -1,0 +1,2 @@
+- een DIV (display=block) vult de ruimte naar rechts indien deze neit leeg is
+- een DIV binnen een flex container stretcht horizontaal en vertikaal .
